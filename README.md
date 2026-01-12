@@ -1,3 +1,10 @@
-#Ngô Hoàng Phúc - bit230325
-#Kết quả thực hiện :
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1d184130-ba3e-4e62-ab97-832154798808" />
+# 1 . Giới thiệu <br>
+### - Người thực hiện : Ngô Hoàng Phúc <br> 
+### - mã sinh viên : bit230325 <br>
+# 2 . Kết quả thực hiện : <br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1d184130-ba3e-4e62-ab97-832154798808" /> <br>
+# 3 . Phân tích & Bài học (Key Takeaways) <br>
+### - Alignment (Căn chỉnh): Sự lệch lạc nhỏ về vị trí giữa các phần tử. <br>
+### - Typography (Kiểu chữ): Sự khác biệt về font-weight (độ đậm nhạt) và kerning (khoảng cách chữ). <br>
+### - Contrast & Color (Tương phản & Màu sắc): Các lỗi về độ tương phản khiến văn bản khó đọc. <br>
+### - Consistency (Tính nhất quán): Các icon hoặc nút bấm không đồng bộ về kích thước/kiểu dáng. <br>
