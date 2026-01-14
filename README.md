@@ -8,3 +8,4 @@
 ### - Typography (Kiểu chữ): Sự khác biệt về font-weight (độ đậm nhạt) và kerning (khoảng cách chữ). <br>
 ### - Contrast & Color (Tương phản & Màu sắc): Các lỗi về độ tương phản khiến văn bản khó đọc. <br>
 ### - Consistency (Tính nhất quán): Các icon hoặc nút bấm không đồng bộ về kích thước/kiểu dáng. <br>
+# 4 . Bài 2 : Student Grade Analyzer. <br>
