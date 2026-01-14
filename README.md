@@ -1,6 +1,6 @@
 # 1 . Giới thiệu <br>
 ### - Người thực hiện : Ngô Hoàng Phúc <br> 
-### - mã sinh viên : bit230325 <br>
+### - Mã sinh viên : bit230325 <br>
 # 2 . Kết quả thực hiện : <br>
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1d184130-ba3e-4e62-ab97-832154798808" /> <br>
 # 3 . Phân tích & Bài học (Key Takeaways) <br>
